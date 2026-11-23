@@ -76,6 +76,17 @@ I’m a student and aspiring software developer who enjoys learning programming 
 
 ---
 
+### > featured_projects
+
+<div align="center">
+  <a href="https://github.com/SahanMadhawa/InternLoom-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahanMadhawa&repo=InternLoom-AI&theme=tokyonight&hide_border=true" alt="InternLoom AI" />
+  </a>
+  <a href="https://github.com/SahanMadhawa/Artemia-2.0-Prototype">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SahanMadhawa&repo=Artemia-2.0-Prototype&theme=tokyonight&hide_border=true" alt="Artemia 2.0" />
+  </a>
+</div>
+
 ## `> connect_with_me`
 
 
